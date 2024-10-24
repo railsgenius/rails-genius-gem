@@ -1,4 +1,4 @@
-Gem::Specifation.new do |s|
+Gem::Specification.new do |s|
   s.name        = "rails_genius"
   s.version     = "0.0.0"
   s.summary     = "A lightweight SAAS template to make launching apps easier than 1 2 3"
